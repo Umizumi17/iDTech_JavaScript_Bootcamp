@@ -1,0 +1,2 @@
+PacMen Factory Exercise
+In this project I was supposed to make a pacmen generate whenever you click and make a pacman button. You could generate multiple pacmen at random spots in the screen. The pacmen would go everywhere and bounce of the walls. 

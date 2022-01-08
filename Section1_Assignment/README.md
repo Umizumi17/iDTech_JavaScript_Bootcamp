@@ -1,0 +1,2 @@
+Fortune Teller Asssigment
+In this project I was supposed to tell the fortune of someone random by getting a number between 0-10 and if their number was between 0 and 3, they had low fortune. If their number was between 4 and 7, they had an avarage fortune. If their number was between 8-10 they had a great fortune.

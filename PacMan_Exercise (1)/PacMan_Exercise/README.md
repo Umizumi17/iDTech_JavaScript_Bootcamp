@@ -1,0 +1,2 @@
+Pacman Exercise
+In this project I was supposed to make the pacman move from one side of the screen to another and when it touched the other side of the screen it was supposed to bounce and move back to the other side and keep bouncing of from the walls
